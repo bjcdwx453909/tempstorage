@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: apple
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_111
+Extension-Name: uploadApk
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: uploadApk
+Implementation-Version: 1.0.5
+Group-Id: io.jenkins.plugins
+Short-Name: uploadApk
+Long-Name: upload apk to managerapk
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0.5
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+

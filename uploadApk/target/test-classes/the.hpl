@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: uploadApk
+Long-Name: upload apk to managerapk
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0.5
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Libraries: /Users/apple/Desktop/java/uploadApk/src/main/resources,/Use
+ rs/apple/Desktop/java/uploadApk/target/classes,/Users/apple/Desktop/a
+ pache-maven-3.5.0/mainlib/com/google/code/gson/gson/2.8.5/gson-2.8.5.
+ jar
+Resource-Path: /Users/apple/Desktop/java/uploadApk/src/main/webapp
+
